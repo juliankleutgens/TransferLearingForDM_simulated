@@ -50,5 +50,7 @@ python main.py
 - Regularization techniques such as cycle consistency and consistency loss.
 - Visualization of baseline and density ratio plots.
 
-Feel free to contribute or create an issue if you encounter any problems!
+```bash
+python main.py --n 1000 --eta_cycle 0 --eta_consistency 0 --show_density_ratio --device cuda
 ```
+
