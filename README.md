@@ -1,6 +1,6 @@
 # TransferLearningForDM_simulated
 
-In this repository, I replicated the results from the paper **Transfer Learning for Diffusion Models**. This implementation includes training, regularization techniques, and visualization of diffusion models for 2D synthetic data.
+In this repository, I replicated the methods from the paper **Transfer Learning for Diffusion Models**. This implementation includes training, regularization techniques, and visualization of diffusion models for 2D synthetic data.
 
 1. **Clone the repository**:
    ```bash
