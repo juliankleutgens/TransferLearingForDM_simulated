@@ -46,6 +46,6 @@ The script accepts the following command-line arguments:
 - Visualization of baseline and density ratio plots.
 
 ```bash
-python main.py --n 1000 --eta_cycle 0 --eta_consistency 0 --show_density_ratio --device cuda
+python main.py --n 1000 --eta_cycle 0 --eta_consistency 0 --show_density_ratio --device cpu
 ```
 
