@@ -2,23 +2,24 @@
 
 In this repository, I replicated the results from the paper **Transfer Learning for Diffusion Models**. This implementation includes training, regularization techniques, and visualization of diffusion models for 2D synthetic data.
 
-## Environment Setup
+1. **Clone the repository**:
+   ```bash
+   git clone git@github.com:juliankleutgens/TransferLearingForDM_simulated.git
+   ```
 
-To set up the required environment, follow these steps:
+2. **Navigate into the project directory**:
+   ```bash
+   cd TransferLearingForDM_simulated
+   ```
 
-1. **Create a conda environment**:
+3. **Set up the environment** (as described in the README):
    ```bash
    conda create --name tgdp python=3.9
-   ```
-
-2. **Activate the environment**:
-   ```bash
    conda activate tgdp
+   pip install torch torchvision numpy matplotlib torchsummary
    ```
 
-3. **Install dependencies**:
-   ```bash
-   pip install torch torchvision numpy matplotlib torchsummary
+Now the repository is ready to use!
    ```
 
 ## Script Arguments
