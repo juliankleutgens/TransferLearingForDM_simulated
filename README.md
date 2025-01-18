@@ -43,7 +43,7 @@ python main.py
 
 Run the script with custom arguments:
 ```bash
-python main.py --n 100 --eta_cycle 0.1 --eta_consistency 0.1 --show_baseline --device cuda
+python main.py --n 1000  --show_density_ratio --device mps
 ```
 
 ## Features
