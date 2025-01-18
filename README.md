@@ -42,10 +42,7 @@ Run the script with default settings:
 python main.py
 ```
 
-Run the script with custom arguments:
-```bash
-python main.py --n 1000  --show_density_ratio --device cuda
-```
+
 
 ## Features
 
