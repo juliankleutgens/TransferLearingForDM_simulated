@@ -19,12 +19,12 @@ In this repository, I replicated the results from the paper **Transfer Learning 
    pip install torch torchvision numpy matplotlib torchsummary
    ```
 
-Now the repository is ready to use!
-   ```
+   
 
 ## Script Arguments
 
 The script accepts the following command-line arguments:
+```
 
 | Argument               | Type   | Default   | Description                                      |
 |------------------------|--------|-----------|--------------------------------------------------|
@@ -35,7 +35,7 @@ The script accepts the following command-line arguments:
 | `--show_density_ratio`| `flag` | `False`   | Show the density ratio plots (no value needed). |
 | `--device`            | `str`  | `cpu`     | Device to use (`cpu`, `cuda`, or `mps`).        |
 
-
+```
 
 
 
