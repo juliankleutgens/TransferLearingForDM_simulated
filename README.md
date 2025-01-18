@@ -35,12 +35,7 @@ The script accepts the following command-line arguments:
 | `--show_density_ratio`| `flag` | `False`   | Show the density ratio plots (no value needed). |
 | `--device`            | `str`  | `cpu`     | Device to use (`cpu`, `cuda`, or `mps`).        |
 
-## Example Usage
 
-Run the script with default settings:
-```bash
-python main.py
-```
 
 
 
