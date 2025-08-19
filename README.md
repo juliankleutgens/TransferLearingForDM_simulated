@@ -1,6 +1,6 @@
-# Transfer Learning for Diffusion Model simulated
+# Transfer Learning for Diffusion Model - Simulation Results
 
-In this repository, I replicated the methods from the paper [Transfer Learning for Diffusion Models](https://arxiv.org/abs/2405.16876). This implementation includes training, regularization techniques, and visualization of diffusion models for 2D synthetic data. The original GitHub from the paper can be found [here](https://github.com/YiDongOuYang/Transfer-Learning-for-Diffusion-Models).
+In this repository, I replicated the methods from the paper [Transfer Learning for Diffusion Models](https://arxiv.org/abs/2405.16876) (Section 4.1). This implementation includes training, regularization techniques, and visualization of diffusion models for 2D synthetic data. The original GitHub from the paper can be found [here](https://github.com/YiDongOuYang/Transfer-Learning-for-Diffusion-Models).
 
 1. **Clone the repository**:
    ```bash
