@@ -1,6 +1,6 @@
-# TransferLearningForDM_simulated
+# Transfer Learning for Diffusion Model simulated
 
-In this repository, I replicated the methods from the paper **Transfer Learning for Diffusion Models**. This implementation includes training, regularization techniques, and visualization of diffusion models for 2D synthetic data.
+In this repository, I replicated the methods from the paper [Transfer Learning for Diffusion Models](https://arxiv.org/abs/2405.16876). This implementation includes training, regularization techniques, and visualization of diffusion models for 2D synthetic data. The original GitHub from the paper can be found [here](https://github.com/YiDongOuYang/Transfer-Learning-for-Diffusion-Models).
 
 1. **Clone the repository**:
    ```bash
@@ -12,7 +12,7 @@ In this repository, I replicated the methods from the paper **Transfer Learning 
    cd TransferLearingForDM_simulated
    ```
 
-3. **Set up the environment** (as described in the README):
+3. **Set up the environment**:
    ```bash
    conda create --name tgdp python=3.9
    conda activate tgdp
